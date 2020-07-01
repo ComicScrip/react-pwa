@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.App .install-banner {
+  cursor: pointer;
+  padding: 15px;
+  background-color: rgba(190, 109, 3, 0.719);
+}
